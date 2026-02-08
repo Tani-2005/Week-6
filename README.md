@@ -67,7 +67,8 @@ pip install -r requirements.txt
 ```bash
 python dashboard.py
 ```
-## Project Structure
+## 📂 Project Structure
+```
 Week-6/
 ├── dashboard.py
 ├── dashboard.ipynb
@@ -83,5 +84,5 @@ Week-6/
 │   ├── interactive_monthly_trend.html
 │   ├── interactive_category_sales.html
 │   └── interactive_region_sales.html
-
+```
 
