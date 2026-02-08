@@ -67,6 +67,21 @@ pip install -r requirements.txt
 ```bash
 python dashboard.py
 ```
-
+## Project Structure
+Week-6/
+├── dashboard.py
+├── dashboard.ipynb
+├── README.md
+├── requirements.txt
+├── data/
+│   └── sales_data.csv
+├── visualizations/
+│   ├── box_sales_category.png
+│   ├── violin_sales_region.png
+│   ├── correlation_heatmap.png
+│   ├── monthly_sales_trend.png
+│   ├── interactive_monthly_trend.html
+│   ├── interactive_category_sales.html
+│   └── interactive_region_sales.html
 
 
