@@ -10,12 +10,6 @@ This project demonstrates advanced visualization concepts such as statistical pl
 
 ---
 
-## Output
-
-📁 *Visualizations are available in the [`/visualizations`](./visualizations) directory.*
-
----
-
 ## 🎯 Project Objectives
 - Master Seaborn statistical visualizations  
 - Create advanced plots (box plot, violin plot, heatmap)  
@@ -72,3 +66,71 @@ Week-6/
 ├──dashboard_demo.mp4
 ```
 ---
+
+# 📊 Analysis Performed
+
+- Sales distribution analysis using box plots
+- Customer spending pattern analysis using violin plots
+- Monthly sales trend visualization
+- Product category performance comparison
+- Regional sales contribution analysis
+- Transaction-level scatter distribution analysis
+- Correlation analysis between numerical features
+- Heatmap-based relationship visualization
+- Multi-plot dashboard layout integration
+
+---
+
+# 📈 Visualizations Created
+
+- Box Plot: Sales Distribution Analysis
+- Violin Plot: Customer Spending Patterns
+- Line Chart: Monthly Sales Trend
+- Bar Chart: Sales by Category
+- Pie Chart: Sales by Region
+- Scatter Plot: Sales Transaction Distribution
+- Correlation Heatmap: Numerical Feature Relationships
+- 2×2 / 3×2 Dashboard Layout Integration
+
+All visualizations are saved inside the **visualizations/** folder.
+Interactive dashboard is exported as an HTML file.
+
+---
+
+# 🧠 Key Concepts Used
+
+- Statistical visualization using Seaborn
+- Correlation matrix computation
+- Heatmap generation with annotations
+- Distribution analysis (median, quartiles, outliers)
+- Multi-plot subplot creation using Matplotlib
+- Custom theme and color palette design
+- Interactive visualization using Plotly
+- Dashboard layout structuring
+- Data aggregation using pandas
+- Feature engineering for Total_Sales calculation
+
+---
+
+# 🧪 Testing & Validation
+
+- Verified correct dataset loading
+- Validated calculated Total_Sales values
+- Confirmed accurate grouping and aggregations
+- Verified correlation matrix values
+- Ensured all subplot layouts render correctly
+- Tested interactive hover functionality in Plotly
+- Confirmed successful export of HTML dashboard
+- Verified all images saved in visualizations folder
+
+---
+
+# 📚 What I Learned
+
+- Advanced statistical visualization using Seaborn
+- Creating box plots and violin plots for distribution analysis
+- Building correlation heatmaps
+- Designing professional multi-chart dashboards
+- Combining static and interactive visualizations
+- Applying consistent styling and dashboard best practices
+- Improving data storytelling and business insight presentation
