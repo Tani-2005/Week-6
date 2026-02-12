@@ -69,5 +69,6 @@ Week-6/
 │   └── sales_data.csv
 ├── visualizations/
 │   └── seaborn_sales_dashboard.png
+├──dashboard_demo.mp4
 ```
 ---
