@@ -12,16 +12,6 @@ This project demonstrates advanced visualization concepts such as statistical pl
 
 ## Output
 
-### 📊 Dashboard Summary
-> **Status:** ✅ Dashboard Generated Successfully
-
-| Metric | Value |
-| :--- | :--- |
-| **Total Revenue** | Auto Calculated |
-| **Total Orders** | Auto Calculated |
-| **Avg. Order Value** | Auto Calculated |
-| **Interactive Dashboards** | 3 HTML Dashboards Generated |
-
 📁 *Visualizations are available in the [`/visualizations`](./visualizations) directory.*
 
 ---
